@@ -1,0 +1,52 @@
+body
+{
+	padding: 0 30% 0 30%;
+	line-height: 1.4;
+	margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #444;
+    
+}
+
+head
+{ 
+	text-align: center, justify;
+	color:black ;
+}
+
+title
+{
+	color:grey;
+}
+
+aside
+{font-size: 18px }
+
+em
+{ color:black;
+
+}
+
+p
+{
+    font-size: 18px;
+    color: black; 
+}
+
+h1
+{
+    font-size: 40px;
+    color: grey;
+}
+h2
+{ color: :grey; }
+ul
+{
+	color: black;
+}
+h3
+{
+	color: black;
+}
